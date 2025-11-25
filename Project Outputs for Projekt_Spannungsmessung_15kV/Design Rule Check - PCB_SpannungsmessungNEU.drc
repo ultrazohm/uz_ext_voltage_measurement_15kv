@@ -1,0 +1,153 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\ELSYS\Documents\2022_10_tom_gaupp_schmidt_messplatinen\00_Altium_Spannungsmessung_15kV\PCB_SpannungsmessungNEU.PcbDoc
+Date     : 26.09.2023
+Time     : 09:08:03
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) (OnLayer('Top Layer')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) (OnLayer('Bottom Layer')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC64_2')),(InNet('NetC74_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC59_2')),(InNet('NetC69_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC74_2')),(InNet('NetC64_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC69_2')),(InNet('NetC79_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC84_2')),(InNet('NetC94_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC94_2')),(InNet('NetC112_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC74_2')),(InNet('NetC84_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC17_2')),(InNet('NetC27_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC59_2')),(InNet('NetC47_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC37_2')),(InNet('NetC27_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC42_2')),(InNet('NetC32_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC32_2')),(InNet('NetC22_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC47_2')),(InNet('NetC37_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC52_2')),(InNet('NetC42_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC13_1')),(InNet('NetC22_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC90_1')),(InNet('NetC107_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC152_2')),(InNet('NetC162_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC147_2')),(InNet('NetC157_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC142_2')),(InNet('NetC152_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC157_2')),(InNet('NetC167_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC64_2')),(InNet('NetC52_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC53_2')),(InNet('NetC79_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC162_2')),(InNet('NetC172_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC137_2')),(InNet('NetC147_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC112_2')),(InNet('NetC122_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC117_2')),(InNet('NetC127_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC107_2')),(InNet('NetC117_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC94_2')),(InNet('NetC112_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC132_2')),(InNet('NetC142_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC127_2')),(InNet('NetC137_2'))
+Rule Violations :0
+
+Processing Rule : Creepage Distance Constraint =(16mm) (InNet('NetC122_2')),(InNet('NetC132_2'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.089mm) (Max=2.54mm) (Preferred=0.381mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.076mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.1mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:02

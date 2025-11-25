@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB_SpannungsmessungNEU.PcbDoc   26.09.2023  09:10:55
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Copper to Bottom Copper
+ASCII RoundHoles File : Projekt_Spannungsmessung_15kV_Rev02.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             26        PTH        8.34inch (211.74mm)
+T2      37mil (0.94mm)                                            Round             12        PTH        1.38inch (35.17mm)
+T3      39mil (1.001mm)                                           Round             12        PTH        1.89inch (48.10mm)
+T4      41mil (1.049mm)                                           Round             2         PTH        0.63inch (15.97mm)
+T5      53mil (1.349mm)                                           Round             8         PTH        3.03inch (77.08mm)
+T6      57mil (1.45mm)                                            Round             24        PTH        2.40inch (60.96mm)
+T7      63mil (1.6mm)                                             Round             26        PTH        20.61inch (523.50mm)
+T8      64mil (1.621mm)                                           Round             2         PTH        0.64inch (16.26mm)
+T9      73mil (1.849mm)                                           Round             6         PTH        1.71inch (43.41mm)
+T10     89mil (2.25mm)                                            Round             2         PTH        0.74inch (18.92mm)
+T11     130mil (3.299mm)                                          Round             2         NPTH       0.50inch (12.70mm)
+T12     134mil (3.401mm)        +/-3mil (0.076mm)                 Round             17        NPTH       73.59inch (1869.24mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              139
+
+Total Processing Time (hh:mm:ss) : 00:00:01

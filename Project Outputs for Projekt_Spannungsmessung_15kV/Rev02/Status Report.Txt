@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PCB_SpannungsmessungNEU.PcbDoc]
+   Generated File[Projekt_Spannungsmessung_15kV_Rev02.TXT]
+   Generated File[Projekt_Spannungsmessung_15kV_Rev02.LDP]
+   Generated File[Projekt_Spannungsmessung_15kV_Rev02.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 09:10:56 On 26.09.2023
